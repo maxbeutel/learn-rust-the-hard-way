@@ -1,0 +1,2 @@
+ihttps://doc.rust-lang.org/std/net/struct.TcpStream.html
+http://stackoverflow.com/questions/24689601/stdiotcpstreamread-as-string-returns-an-empty-string

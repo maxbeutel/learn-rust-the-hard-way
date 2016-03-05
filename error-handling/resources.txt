@@ -1,0 +1,3 @@
+http://stackoverflow.com/questions/22118221/how-do-you-iterate-over-a-string-by-character
+http://doc.rust-lang.org/std/primitive.str.html#method.char_indices
+https://doc.rust-lang.org/book/error-handling.html#composing-optiont-values
